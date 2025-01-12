@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         val textView = findViewById<TextView>(R.id.text_view)
 
         button.setOnClickListener {
-            textView.text = editText.text;
+            textView.text = editText.text
         }
     }
 }

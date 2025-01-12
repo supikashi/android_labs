@@ -2,4 +2,6 @@
     <string name="app_name">lab2</string>
     <string name="name_and_group">Грачёв Григорий Алексеевич БПИ236</string>
     <string name="placeholder">Здесь будет ваш текст</string>
+    <string name="hint">Напишите что-нибудь</string>
+    <string name="button_text">Нажмите</string>
 </resources>
