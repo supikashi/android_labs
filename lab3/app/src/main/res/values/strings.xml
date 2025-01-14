@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="name_and_group">Грачёв Григорий Алексеевич БПИ236</string>
+    <string name="hint">Напишите что-нибудь</string>
+    <string name="next">Перейти на второй экран</string>
+    <string name="you_texted">На первом экране вы написали:</string>
+    <string name="prev">Вернуться на первый экран</string>
+    <string name="activity_1">activity 1</string>
+    <string name="activity_2">activity 2</string>
+</resources>
