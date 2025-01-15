@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         val button = findViewById<Button>(R.id.next_button)
         val editText = findViewById<EditText>(R.id.edit_text)
         button.setOnClickListener {
-            val intent = Intent(this, SecondActivity::class.java)
+            val intent = Intent(this@MainActivity, SecondActivity::class.java)
             val string = editText.text
             intent.putExtra("string", string.toString())
             startActivity(intent)
