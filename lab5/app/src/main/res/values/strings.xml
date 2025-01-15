@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="name_and_group">Грачёв Григорий Алексеевич БПИ236</string>
+    <string name="regenerate">Перегенерировать</string>
+</resources>
